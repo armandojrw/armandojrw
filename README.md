@@ -42,7 +42,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=armandojrw)](https://github.com/armandojrw)
+[![trophy](https://github-profile-trophy.vercel.app/?username=armandojrw)]
 
 
 
