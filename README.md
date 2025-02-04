@@ -9,7 +9,7 @@
 
 - 🏢 I am currently working as a **Software Developer**
 - 🎓 Studies for Informática Aplicada a la Enseñanza con Implementación a la Tecnología at [Universidad de Panamá](https://www.up.ac.pa/)
-- 🏡'Lives in **Panamá, Colón**
+- 🏡'Lives in **New York, Brooklyn**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
